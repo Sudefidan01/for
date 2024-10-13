@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\bin\Debug\20230805_For.exe.config
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\bin\Debug\20230805_For.exe
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\bin\Debug\20230805_For.pdb
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\obj\Debug\20230805_For.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\obj\Debug\20230805_For.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\obj\Debug\20230805_For.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\obj\Debug\20230805_For.exe
+C:\Users\sadullah.sener\source\repos\20230805_For\20230805_For\obj\Debug\20230805_For.pdb
